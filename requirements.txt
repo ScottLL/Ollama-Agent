@@ -1,0 +1,17 @@
+PyPDF2
+langchain
+langchain-community
+langchain-huggingface
+chromadb==0.3.29
+sentence-transformers
+ollama
+pydantic<2.0.0
+importlib-metadata==7.0.2
+protobuf==4.25.1
+regex>=2024.4.28
+pandas==2.0.3
+tiktoken==0.5.2
+tqdm==4.66.3
+fsspec<=2024.2.0
+urllib3<2.0.0
+pypdf
